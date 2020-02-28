@@ -3,3 +3,4 @@
 11:20 more drawing pad examples
 12:15 create simple drawing pad following tutorial
 1:30 lunch
+2:30 more drawing pad tutorials

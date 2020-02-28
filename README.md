@@ -9,3 +9,4 @@
 3:15 following react native tutorial
 3:27 download android studio
 3:40 install android studio
+3:55 install xcode

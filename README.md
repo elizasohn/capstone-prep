@@ -8,3 +8,4 @@
 3:10 reading about react native
 3:15 following react native tutorial
 3:27 download android studio
+3:40 install android studio

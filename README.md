@@ -5,3 +5,4 @@
 1:30 lunch
 2:30 more drawing pad tutorials
 3:00 reading about react canvas
+3:10 reading about react native

@@ -4,3 +4,4 @@
 12:15 create simple drawing pad following tutorial
 1:30 lunch
 2:30 more drawing pad tutorials
+3:00 reading about react canvas

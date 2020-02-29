@@ -12,3 +12,4 @@
 *3:40 install android studio*  
 *3:55 install xcode*  
 *4:20 working on react native tutorial*  
+*4:45 troubleshooting installation*  

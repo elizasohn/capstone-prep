@@ -14,3 +14,4 @@
 *4:20 working on react native tutorial*  
 *4:45 troubleshooting installation*   
 *5:00 read about canvas element*  
+*5:15 read about websockets and actioncable*

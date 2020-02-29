@@ -1,4 +1,4 @@
-8:00  look through react drawing pad examples
+_8:00  look through react drawing pad examples
 9:30 more drawing pad examples
 11:20 more drawing pad examples
 12:15 create simple drawing pad following tutorial
@@ -10,4 +10,4 @@
 3:27 download android studio
 3:40 install android studio
 3:55 install xcode
-4:20 working on react native tutorial
+4:20 working on react native tutorial_
